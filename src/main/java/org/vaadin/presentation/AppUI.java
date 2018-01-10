@@ -46,7 +46,7 @@ import org.vaadin.cdiviewmenu.ViewMenuUI;
  * </p>
  */
 @CDIUI("")
-@Title("Simple CRM")
+@Title("CAMS Dashboard")
 public class AppUI extends ViewMenuUI {
 
     /**
